@@ -1,0 +1,19 @@
+﻿1) What is an exception? Provide an example.
+
+2) Where can you find an exception?
+
+3) What is error handling?
+
+4) How do you generate an exception? How do you handle it?
+
+5) What happens to your application if an exception is not handled?
+
+6) What does the concept of "exception hierarchy" mean?
+
+7) Where do you handle your code's exceptions?
+
+8) What does the concept of stack trace mean?
+
+9) What does the concept of inner exception mean?
+
+10) What does the concept of "user-defined" or "custom exceptions" mean?

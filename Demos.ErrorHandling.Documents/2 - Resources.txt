@@ -1,0 +1,15 @@
+﻿Resources:
+
+	Tutorial
+	- https://www.youtube.com/watch?v=_nmm0nZqIIY (Java Exception Handling Tutorial)	
+	
+	Best practices
+	- https://www.javacodegeeks.com/10-best-practices-to-handle-java-exceptions.html (10 Best Practices to Handle Java Exceptions)
+	- https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/Java-Exception-handling-best-practices (Java Exception handling best practices)
+	- https://howtodoinjava.com/best-practices/java-exception-handling-best-practices/ (Top 20 Java Exception Handling Best Practices)
+	- https://www.baeldung.com/java-try-with-resources (Java – Try with Resources)
+	- https://www.great-white-software.com/blog/2020/02/16/fail-early-fail-often-fail-loudly/ (Fail early. Fail loudly.)
+	
+	How to.... SpringBoot 2
+	- https://www.baeldung.com/exception-handling-for-rest-with-spring (Error Handling for REST APIs with Spring)
+	- https://www.baeldung.com/global-error-handler-in-a-spring-rest-api (Custom Error Message Handling for REST API)
